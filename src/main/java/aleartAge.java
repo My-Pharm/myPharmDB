@@ -28,6 +28,7 @@ public class aleartAge {
 
         int count=0;
 
+
         try {
             // MySQL JDBC 드라이버 로드
             Class.forName("com.mysql.cj.jdbc.Driver");
